@@ -1,0 +1,10 @@
+f0687a5a4f61efe87e58907677a47712 *DESCRIPTION
+8d4d9b64deb5725b56b2ccf5ec102645 *NAMESPACE
+b32de7a3a752cec893c56242da0c3793 *R/freq_two_vects.R
+6cab5e2a50710d8fb2a245d80800532d *R/freq_vect.R
+e4ea75cea083e07a0ee0a0b06ba4f2ac *README.md
+a934f468460815f18ecd6c047eab0d6e *man/freq_two_vects.Rd
+525859eeabf414529b4002ed3811ef07 *man/freq_vect.Rd
+46bd3d00105ffcd7787ff9448eee17d5 *tests/testthat.R
+8bd21470b2c73aeaabf70841fa0ae769 *tests/testthat/test_freq_two_vects.R
+97f9f72dd013f7b2e359bc2ca5a6c604 *tests/testthat/test_freq_vect.R
